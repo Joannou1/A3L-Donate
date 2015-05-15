@@ -1,0 +1,45 @@
+html {
+  -webkit-font-smoothing: antialiased;
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  font-size: 100%;
+  line-height: 1.125em;
+  font-family: 'RobotoLight', arial, sans-serif;
+  color: #1e1e1e;
+  background: #ffffff url('../images/bg-pattern.png') repeat;
+  overflow-x: hidden;
+    border-top: 5px solid #2b3e47;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  *behavior: url(../core/sizing/boxsizing.htc);
+}
+
+header {
+  position: relative;
+  padding: 14px 0;
+  height: 70px;
+  display: block;
+  border: 1px solid #dcdcdc;
+  border-top: none;
+  background-color: #f7f7f7;
+  -webkit-box-shadow: 0 2px 5px rgba(7,7,7,.07), inset 0 1px 0 rgba(255,255,255,.75);
+  -moz-box-shadow: 0 2px 5px rgba(7,7,7,.07), inset 0 1px 0 rgba(255,255,255,.75);
+  box-shadow: 0 2px 5px rgba(7,7,7,.07), inset 0 1px 0 rgba(255,255,255,.75);
+}
+
+#main-wrapper {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto -59px;
+}
