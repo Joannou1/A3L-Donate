@@ -16,10 +16,10 @@
 				Login
 			</div>
 			<div id="head-buttons">                    
-				Button
+				AdminCP
 			</div>
 			<div id="head-buttons">                    
-				Button 2
+				Forum
 			</div>
 			
 			<div class="nav-progress">
