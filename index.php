@@ -63,5 +63,12 @@
 		</div>
 	</header>
 </div>
+
+<footer id="liner">
+  <div id="body-wrapper">
+	<h2 class="text">&copy; LIFE STUDIOS 2015 ALL RIGHTS RESERVED</h2>
+  </div>
+</footer>
+
 </body>
 </html>
