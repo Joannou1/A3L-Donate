@@ -43,3 +43,9 @@ header {
   height: 100%;
   margin: 0 auto -59px;
 }
+
+#logo {
+  float: left;
+  margin: -10px 0px 0px 5px;
+  margin-left: 15%;
+}
