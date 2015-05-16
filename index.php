@@ -12,6 +12,15 @@
 			<div id="logo">                    
 				ARMA3-LIFE
 			</div>
+			<div id="head-buttons">                    
+				Login
+			</div>
+			<div id="head-buttons">                    
+				Button
+			</div>
+			<div id="head-buttons">                    
+				Button 2
+			</div>
 		</div>
 	</header>
 </div>
