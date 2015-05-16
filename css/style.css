@@ -218,9 +218,6 @@ header {
 }
 
 /*Footer*/
-@import url(http://fonts.googleapis.com/css?family=Lato:900);
-
-
 
 .body {
 margin:0;  
@@ -238,7 +235,6 @@ margin:0;
 
 .text {
   color: #424242;
-  font-family: Lato;
   font-size: 20px;
 }
 
