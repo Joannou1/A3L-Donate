@@ -82,13 +82,15 @@ header {
   display: table;
   overflow: hidden;
   margin: 0;
-  width: 100%;
+  width: inherit;
   height: 50px;
   border: 1px solid #27ae60;
   background-color: #f7f7f7;
   -webkit-border-radius: 6px;
   -moz-border-radius: 6px;
   border-radius: 6px;
+  position: absolute;
+  margin-top: 7%;
 }
 .nav-progress > div {
   position: relative;

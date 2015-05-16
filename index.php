@@ -23,7 +23,7 @@
 			</div>
 			
 			<div class="nav-progress">
-				<div class="complete">
+				<div class="active">
 					Step 1
 				<div class="arrow-wrapper">
 				  <div class="arrow-cover">
@@ -31,7 +31,7 @@
 				  </div>
 				</div>
 				</div>
-				<div class="active">
+				<div class="arrow">
 					Step 2
 				<div class="arrow-wrapper">
 				  <div class="arrow-cover">
