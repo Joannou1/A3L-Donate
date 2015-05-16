@@ -21,6 +21,36 @@
 			<div id="head-buttons">                    
 				Button 2
 			</div>
+			
+			<div class="nav-progress">
+				<div class="complete">
+					Step 1
+				<div class="arrow-wrapper">
+				  <div class="arrow-cover">
+					<div class="arrow"></div>
+				  </div>
+				</div>
+				</div>
+				<div class="active">
+					Step 2
+				<div class="arrow-wrapper">
+				  <div class="arrow-cover">
+					<div class="arrow"></div>
+				  </div>
+				</div>
+				</div>
+				<div>
+					Step 3
+				<div class="arrow-wrapper">
+				  <div class="arrow-cover">
+					<div class="arrow"></div>
+				  </div>
+				</div>
+				</div>
+				<div>
+					Step 4
+				</div>
+			</div>
 		</div>
 	</header>
 </div>
