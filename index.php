@@ -47,9 +47,6 @@
 				  </div>
 				</div>
 				</div>
-				<div>
-					Step 4
-				</div>
 			</div>
 		</div>
 	</header>
