@@ -48,6 +48,18 @@
 				</div>
 				</div>
 			</div>
+			
+			
+		<ul class="blocks">
+		  <li>Bronze<div class="popup"><span><h3>Bronze</h3>This is the Bronze package. It has some things.</span></div></li>
+		  
+		  <li>Silver<div class="popup"><span><h3>Silver</h3>This is the Silver package. It has a bunch of things.</span></div></li>
+		  
+		  <li>Gold<div class="popup"><span><h3>Gold</h3>This is the Gold package. It has lots of things.</span></div></li>
+		  
+		  <li>Platinum<div class="popup"><span><h3>Platinum</h3>This is the Platinum package. It has tons of things.</span></div></li>
+		</ul>
+			
 		</div>
 	</header>
 </div>
