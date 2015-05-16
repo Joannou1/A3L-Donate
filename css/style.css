@@ -44,8 +44,15 @@ header {
   margin: 0 auto -59px;
 }
 
+#body-wrapper {
+  width: 1220px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 #logo {
+  font-family: 'Roboto', sans-serif;
+  font-size: 40px;
   float: left;
-  margin: -10px 0px 0px 5px;
-  margin-left: 15%;
+  margin: 10px 0px 0px 5px;
 }
