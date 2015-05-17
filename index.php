@@ -51,13 +51,23 @@
 			
 			
 		<ul class="blocks">
-		  <li>Bronze<div class="popup"><span><h3>Bronze</h3>This is the Bronze package. It has some things.</span></div></li>
+		  <li><h2>Bronze</h2><h3>$10</h3><div class="popup"><span><h2>Bronze</h2><h3>$10</h3>This is the Bronze package. It has some things.</span></div></li>
 		  
-		  <li>Silver<div class="popup"><span><h3>Silver</h3>This is the Silver package. It has a bunch of things.</span></div></li>
+		  <li><h2>Silver</h2><h3>$15</h3><div class="popup"><span><h2>Silver</h2><h3>$15</h3>This is the Silver package. It has a bunch of things.</span></div></li>
 		  
-		  <li>Gold<div class="popup"><span><h3>Gold</h3>This is the Gold package. It has lots of things.</span></div></li>
+		  <li><h2>Gold</h2><h3>$20</h3><div class="popup"><span><h2>Gold</h2><h3>$20</h3>This is the Gold package. It has lots of things.</span></div></li>
 		  
-		  <li>Platinum<div class="popup"><span><h3>Platinum</h3>This is the Platinum package. It has tons of things.</span></div></li>
+		  <li><h2>Platinum</h2><h3>$50</h3><div class="popup"><span><h2>Platinum</h2><h3>$50</h3>This is the Platinum package. It has tons of things.</span></div></li>
+		  
+		  <li><h2>Platinum</h2><h3>$50</h3><div class="popup"><span><h2>Platinum</h2><h3>$50</h3>This is the Platinum package. It has tons of things.</span></div></li>
+		  
+		  <li><h2>Platinum</h2><h3>$50</h3><div class="popup"><span><h2>Platinum</h2><h3>$50</h3>This is the Platinum package. It has tons of things.</span></div></li>
+		  
+		  <li><h2>Platinum</h2><h3>$50</h3><div class="popup"><span><h2>Platinum</h2><h3>$50</h3>This is the Platinum package. It has tons of things.</span></div></li>
+		  
+		  <li><h2>Platinum</h2><h3>$50</h3><div class="popup"><span><h2>Platinum</h2><h3>$50</h3>This is the Platinum package. It has tons of things.</span></div></li>
+		  
+		  <li><h2>Platinum</h2><h3>$50</h3><div class="popup"><span><h2>Platinum</h2><h3>$50</h3>This is the Platinum package. It has tons of things.</span></div></li>
 		</ul>
 			
 		</div>

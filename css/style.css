@@ -89,7 +89,7 @@ header {
   -moz-border-radius: 6px;
   border-radius: 6px;
   position: absolute;
-  margin-top: 7%;
+  margin-top: 100px;
 }
 .nav-progress > div {
   position: relative;
@@ -153,7 +153,7 @@ header {
   width: 1220px;
   max-width: 64%;
   padding: 0px;
-  margin-top: 11%;
+  margin-top: 10%;
   position: absolute;
 }
 
@@ -161,6 +161,7 @@ header {
   color: #fff;
   background-color: #2196F3;
   cursor:default;
+  height: 200px;
   float:left;
   list-style:none;
   margin:1%;
